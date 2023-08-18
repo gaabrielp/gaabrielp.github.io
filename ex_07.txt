@@ -1,0 +1,5 @@
+Exercicio 07
+R: Abre uma página para acesso de 3 links, sendo eles:
+	- Site do PHP
+	- Site do Google
+	- Site do Yahoo
